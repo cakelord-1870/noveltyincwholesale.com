@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://noveltyincwholesale.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://noveltyincwholesale.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://noveltyincwholesale.com/blogs/news.atom"/>
+  <title>Novelty Inc Wholesale - News</title>
+  <updated>2020-12-23T11:17:36-05:00</updated>
+  <author>
+    <name>Novelty Inc Wholesale</name>
+  </author>
+  <entry>
+    <id>https://noveltyincwholesale.com/blogs/news/distributor-and-rep-programs</id>
+    <published>2020-12-23T11:17:36-05:00</published>
+    <updated>2021-02-12T00:36:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://noveltyincwholesale.com/blogs/news/distributor-and-rep-programs"/>
+    <title>Distributor and Rep Programs</title>
+    <author>
+      <name>Novelty IT</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="UTF-8">
+<p>We specialize in creating custom programs for both distributors and reps who would like to sell our products. We also offer private label and customized products. <br><br>Call <a href="tel:8009687442" target="_blank" title="8009687442" rel="noopener noreferrer">800-968-7442</a> or <a href="mailto:%20wholesale@noveltyinc.com" target="_blank" rel="noopener noreferrer">email us</a> for details.</p>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://noveltyincwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://noveltyincwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://noveltyincwholesale.com/collections/halloween.atom"/>
+  <title>Novelty Inc Wholesale</title>
+  <updated>2020-11-18T21:58:46-05:00</updated>
+  <author>
+    <name>Novelty Inc Wholesale</name>
+  </author>
+  <entry>
+    <id>https://noveltyincwholesale.com/products/5942091546777</id>
+    <published>2020-11-18T21:58:46-05:00</published>
+    <updated>2020-11-18T21:58:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://noveltyincwholesale.com/products/adult-polyester-mask-halloween"/>
+    <title>ITEM NUMBER KP4175 ADULT POLYESTER MASK HALLOWEEN 24 PIECES PER DISPLAY</title>
+    <s:type>COVID ITEMS</s:type>
+    <s:vendor>NOVELTY INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0461/8941/2505/products/KP4175lg.jpg?v=1605754728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NOVELTY INC<br>
+        <strong>Type: </strong>COVID ITEMS<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adult washable Halloween themed face masks. Comes in assorted styles.</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4mac{background-color:#FFF;border-color:inherit;color:#333;font-size:12px;text-align:center;vertical-align:bottom}
+.tg .tg-7bnj{background-color:#409CFF;border-color:inherit;color:#333;font-size:12px;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-08ym{background-color:#FFF;border-color:inherit;color:#333;font-size:12px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7bnj">UOM<br>
+</th>
+    <th class="tg-7bnj">Pieces</th>
+    <th class="tg-7bnj">Dimensions Inches</th>
+    <th class="tg-7bnj">Weight lbs</th>
+    <th class="tg-7bnj">UPC</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-08ym">Each</td>
+    <td class="tg-08ym">1</td>
+    <td class="tg-4mac">4.5H x 7.5W x 0.2L</td>
+    <td class="tg-08ym"></td>
+    <td class="tg-4mac">794080041755</td>
+  </tr>
+  <tr>
+    <td class="tg-08ym">Display</td>
+    <td class="tg-08ym">24</td>
+    <td class="tg-4mac"> </td>
+    <td class="tg-4mac"> </td>
+    <td class="tg-4mac">794080041755</td>
+  </tr>
+  <tr>
+    <td class="tg-08ym">Case</td>
+    <td class="tg-08ym">576</td>
+    <td class="tg-4mac"></td>
+    <td class="tg-08ym"> </td>
+    <td class="tg-4mac">794080041755</td>
+  </tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>COVID ITEMS</s:tag>
+    <s:tag>HALLOWEEN</s:tag>
+    <s:tag>MASKS</s:tag>
+    <s:tag>PERSONAL PROTECTION</s:tag>
+    <s:tag>SEASONAL</s:tag>
+    <s:variant>
+      <id>https://noveltyincwholesale.com/products/5942091546777</id>
+      <title>$3.00</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>KP4175</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

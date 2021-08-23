@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://noveltyincwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://noveltyincwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://noveltyincwholesale.com/collections/sunglasses-floor-displays.atom"/>
+  <title>Novelty Inc Wholesale</title>
+  <updated>2021-02-10T19:21:48-05:00</updated>
+  <author>
+    <name>Novelty Inc Wholesale</name>
+  </author>
+  <entry>
+    <id>https://noveltyincwholesale.com/products/6145057947801</id>
+    <published>2021-02-10T19:21:48-05:00</published>
+    <updated>2021-02-10T19:21:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://noveltyincwholesale.com/products/item-number-088312-sunglass-promo-floor-display"/>
+    <title>ITEM NUMBER 088312 SUNGLASS PROMO FLOOR DISPLAY 48 PIECES PER DISPLAY</title>
+    <s:type>IMPULSE</s:type>
+    <s:vendor>NOVELTY INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0461/8941/2505/products/image_beb22e63-a0aa-4f4b-be18-67fb8c352168.jpg?v=1616465724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NOVELTY INC<br>
+        <strong>Type: </strong>IMPULSE<br>
+        <strong>Price: </strong>
+            144.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sport Ray Sunglass floor display. Display includes 48 pairs of sunglasses in assorted styles.</p>
+<div></div>
+<div></div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;">UOM</td>
+<td style="text-align: center;">Pieces</td>
+<td style="text-align: center;">Dimensions INCH</td>
+<td style="text-align: center;">Weight LB</td>
+<td style="text-align: center;">UPC</td>
+</tr>
+<tr>
+<td style="text-align: center;">Each</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">Varies</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">794080222642</td>
+</tr>
+<tr>
+<td style="text-align: center;">Display</td>
+<td style="text-align: center;">48</td>
+<td style="text-align: center;">57.5H x 16W x 14.5L</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">794080883126</td>
+</tr>
+<tr>
+<td style="text-align: center;">Case</td>
+<td style="text-align: center;">48</td>
+<td style="text-align: center;">4.4H x 16.2W x 41.8L</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">794080883126</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>88312</s:tag>
+    <s:tag>ALL</s:tag>
+    <s:tag>FLOOR DISPLAY</s:tag>
+    <s:tag>IMPULSE</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://noveltyincwholesale.com/products/6145057947801</id>
+      <title>$144.00</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>088312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://noveltyincwholesale.com/products/6086407454873</id>
+    <published>2021-01-13T12:34:45-05:00</published>
+    <updated>2021-01-13T12:34:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://noveltyincwholesale.com/products/item-number-088184-sport-rayz-sunglasses-floor-display"/>
+    <title>ITEM NUMBER 088184 SPORT RAYZ SUNGLASSES FLOOR DISPLAY 36 PIECES PER DISPLAY</title>
+    <s:type>NOVELTIES</s:type>
+    <s:vendor>NOVELTY INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0461/8941/2505/products/88184lg.jpg?v=1610559287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NOVELTY INC<br>
+        <strong>Type: </strong>NOVELTIES<br>
+        <strong>Price: </strong>
+            108.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightweight Sports Rays Sunglasses with poly carbonate lens that are impact and scratch resistant on a convenient floor display. Display contains 36 assorted pairs of sunglasses.</p>
+<div></div>
+<div></div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;">UOM</td>
+<td style="text-align: center;">Pieces</td>
+<td style="text-align: center;">Dimensions INCH</td>
+<td style="text-align: center;">Weight LB</td>
+<td style="text-align: center;">UPC</td>
+</tr>
+<tr>
+<td style="text-align: center;">Each</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;"><span>H x W x L</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">794080244286</td>
+</tr>
+<tr>
+<td style="text-align: center;">Display</td>
+<td style="text-align: center;">36</td>
+<td style="text-align: center;">57.5H x 16W x 14.5L</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">794080881849</td>
+</tr>
+<tr>
+<td style="text-align: center;">Case</td>
+<td style="text-align: center;">36</td>
+<td style="text-align: center;">34.3H x 16.6W x 4.4L</td>
+<td style="text-align: center;"><br></td>
+<td style="text-align: center;">794080881849</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>FLOOR DISPLAY</s:tag>
+    <s:tag>NOVELTIES</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://noveltyincwholesale.com/products/6086407454873</id>
+      <title>$108.00</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>088184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
